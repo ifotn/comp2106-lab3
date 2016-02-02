@@ -1,0 +1,15 @@
+{
+  "name": "lab3",
+  "version": "1.0.0",
+  "description": "COMP2106 Lab 3 - a simple connect site",
+  "main": "hodemon server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "connect"
+  ],
+  "author": "Rich Freeman",
+  "license": "ISC"
+}
